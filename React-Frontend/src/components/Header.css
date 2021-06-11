@@ -1,0 +1,42 @@
+div {
+    padding: 0;
+    margin: 0;
+}
+
+.header {
+    background-color: rgb(17, 17, 17);
+    height: 55px;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.logo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 10px;
+}
+
+.logo h3 {
+    margin: 0;
+}
+
+.menu {
+    display: flex;
+    align-items: center;
+}
+
+.menu ul {
+    padding: 0;
+    margin: 0;
+    display: flex;
+    list-style: none;
+    align-items: center;
+}
+
+.menu ul li {
+    margin-right: 20px;
+    margin-top: 2px;
+}

@@ -1,0 +1,29 @@
+.form-container {
+    width: 27%;
+    /* height: 65vh; */
+    padding: 1rem;
+    margin: 0px auto;
+    margin-top: 2.5rem;
+    border-radius: 5px;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+}
+
+.form-info {
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: 1fr 1fr;
+    justify-items: center;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    padding: 1rem;
+    width: 100%;
+}
+
+
+
+.input {
+    margin-bottom: 2rem;
+}

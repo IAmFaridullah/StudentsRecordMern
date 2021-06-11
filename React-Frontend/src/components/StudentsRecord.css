@@ -1,0 +1,18 @@
+.parent {
+    width: 70%;
+    margin: 0 auto;
+    margin-top: 2rem;
+}
+
+.parent h2 {
+    text-align: center;
+    font-weight: bold;
+}
+
+.table {
+    color : yellow;
+    width : 70%;
+    margin-top: 0.2rem;
+    border-radius: 5px;
+}
+

@@ -1,0 +1,27 @@
+.update-form-container {
+    width: 27%;
+    /* height: 65vh; */
+    padding: 1rem;
+    margin: 0px auto;
+    margin-top: 4rem;
+    border-radius: 5px;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+}
+
+.update-form-info {
+    display: flex;
+    padding-left: 0.3rem;
+    justify-content: center;
+    margin-top: 1rem;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    padding: 1rem;
+    width: 100%;
+}
+
+.input {
+    margin-bottom: 2rem;
+}
